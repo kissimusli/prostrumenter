@@ -1,4 +1,4 @@
-# prostrumenter
+# Prostrumenter
 A easy way to instrument structs and export them as a prometheus metric type.
 
 This is a package for instrumenting large amout of data programmaticly to the prometheus metric type.
